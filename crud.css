@@ -1,0 +1,43 @@
+.main{
+    background-color: black;
+    height: 690px;
+}
+.main-table input:hover{
+    border-bottom: 2px solid #e0722d;
+}
+.main-table .btn-one {
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+    border: 1px solid white;
+    outline: none;
+    width: 100px;
+    color: white;
+    transition: all 0.2s;
+    background-color:transparent;
+}
+.main-table .btn-one:hover{
+    box-shadow:-1px 0px 3px 4px #e0722d;
+}
+.sub-menu{
+    margin: 20px 0px;
+}
+.main-table input{
+	background-color:transparent;
+	border:none;
+    color: white;
+    outline: none;
+	border-bottom:2px solid white;
+}
+.sub-menu tr td{
+    margin: 20px;
+}
+.sub-menu tr{
+    color: white;
+}
+.main-table td label{
+    color: white;
+}
+.main-table .sub-tble td{
+    padding: 20px 0px;
+}
